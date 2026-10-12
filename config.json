@@ -1,4 +1,7 @@
 {
     "assignment": "00-lambda",
-    "server": "http://lighthouse.soe.ucsc.edu"
+    "server": "http://lighthouse.soe.ucsc.edu",
+    "user": "klee217@ucsc.edu",
+    "pass": "41dcc08f8b74d0ca90b8dfdfeeb94c4b",
+    "course": "cse-114a-f26"
 }
